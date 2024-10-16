@@ -1,0 +1,6 @@
+{
+    "ai": {
+        "docSubFolder": "qdrant_example_zoom",
+        "contextPrompt": "dev-docs/conext-prompt-template.md"
+    }
+}
